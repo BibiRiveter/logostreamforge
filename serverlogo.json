@@ -1,0 +1,8 @@
+{
+  "images": [
+    {
+      "url": "https://i.imgur.com/KFsBOjB.png",
+      "position": "BottomLeft",
+      "Persist": true,
+      "timer": 5
+    }
